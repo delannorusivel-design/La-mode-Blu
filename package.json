@@ -1,0 +1,9 @@
+{
+  "name": "loja-lb",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Loja online Lb — vitrine estática + checkout via Mercado Pago (Vercel Serverless Function)",
+  "dependencies": {
+    "mercadopago": "^2.0.9"
+  }
+}
